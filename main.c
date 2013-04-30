@@ -6,8 +6,6 @@
 #include <Windows.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <malloc.h>
-#include <memory.h>
 #include <tchar.h>
 
 int _tmain (int argc, _TCHAR *argv[])
